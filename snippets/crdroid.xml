@@ -96,7 +96,7 @@
   <project path="packages/apps/Settings" name="crdroidandroid/android_packages_apps_Settings" remote="crdroid" />
   <project path="packages/apps/SetupWizard" name="crdroidandroid/android_packages_apps_SetupWizard" remote="crdroid" />
   <project path="packages/apps/ThemePicker" name="crdroidandroid/android_packages_apps_ThemePicker" remote="crdroid" />
-  <project path="packages/apps/Updater" name="crdroidandroid/android_packages_apps_Updater" remote="crdroid" />
+  <project path="packages/apps/Updater" name="keerthiteja/android_packages_apps_Updater" remote="github" revision="11.0" />
   <project path="packages/inputmethods/LatinIME" name="crdroidandroid/android_packages_inputmethods_LatinIME" remote="crdroid" />
   <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="crdroid" />
   <project path="packages/services/Telecomm" name="crdroidandroid/android_packages_services_Telecomm" remote="crdroid" />
@@ -128,7 +128,7 @@
 
   <project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />
   <project path="vendor/codeaurora/telephony" name="crdroidandroid/android_vendor_codeaurora_telephony" remote="crdroid" />
-  <project path="vendor/crDroidOTA" name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />
+  <project path="vendor/crDroidOTA" name="keerthiteja/android_vendor_crDroidOTA" remote="github" revision="11.0" />
   <project path="vendor/lineage" name="crdroidandroid/android_vendor_crdroid" remote="crdroid" />
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="crdroidandroid/android_vendor_qcom_opensource_bluetooth-commonsys-intf" remote="crdroid" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="crdroidandroid/android_vendor_qcom_opensource_bluetooth_ext" remote="crdroid" />
